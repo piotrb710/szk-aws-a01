@@ -39,7 +39,11 @@ Does it work? Apply the policy allowing everyone to get files if necessary.
 4.  Uncheck **Block all public access**.
 5.  Click **Save**.
 6.  Enter *confirm* and click **Confirm**.
-7. Go back to your browser and check if your site is working.
+7.  Select **Objects**.
+8.  Select **index.html**
+9.  From **Action** select **Make public**
+10. Click **Make public**
+11. Go back to your browser and check if your site is working.
 
 
 ## Task 3: Creating an Amazon CloudFront Web Distribution
