@@ -39,28 +39,7 @@ Does it work? Apply the policy allowing everyone to get files if necessary.
 4.  Uncheck **Block all public access**.
 5.  Click **Save**.
 6.  Enter *confirm* and click **Confirm**.
-7.  Click **Bucket Policy**.
-8.  Download [bucket_policy.json file](bucket_policy.json) and paste its content as the policy.
-
-OR COPY from here:
-```
-{
-    "Version":"2012-10-17",
-    "Statement":[
-      {
-        "Sid":"AddPerm",
-        "Effect":"Allow",
-        "Principal": "*",
-        "Action":["s3:GetObject"],
-        "Resource":["arn:aws:s3:::NAME-OF-YOUR-BUCKET/*"]
-      }
-    ]
-  }
-```
-
-9.  Replace *NAME-OF-YOUR-BUCKET* with the name of your bucket.
-10. Click **Save**.
-11. Go back to your browser and check if your site is working.
+7. Go back to your browser and check if your site is working.
 
 
 ## Task 3: Creating an Amazon CloudFront Web Distribution
