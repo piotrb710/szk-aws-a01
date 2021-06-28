@@ -31,7 +31,7 @@
 
 Does it work? Apply the policy allowing everyone to get files if necessary.
 
-## Task 2: Applying Bucket policy
+## Task 2: Applying Bucket permission
 
 1.  Select **Permissions**.
 2.  Click **Block public asscess**.
