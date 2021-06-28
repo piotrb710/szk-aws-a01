@@ -26,7 +26,7 @@
 13. Click **Overview**.
 14. Click **Upload**.
 15. Click **Add files**.
-16. Upload the entire content od *site* catalog to your bucket. NOT THE DIRECTORY ITSELF.
+16. Upload file *index.html* from *site* folder.
 17. Try opening the website in your browser.
 
 Does it work? Apply the policy allowing everyone to get files if necessary.
