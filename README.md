@@ -20,4 +20,4 @@ Pracujemy w regionie **IRELAND (eu-west-1)**
 
 <br><br>
 
-<p align="right">&copy; 2020 Welastic Sp. z o.o.<p>
+<p align="right">&copy; 2021 Welastic Sp. z o.o.<p>
